@@ -1,3 +1,1 @@
-# Modern-day-website
-A front-end project of how a modern day website looks.
-link - https://au7anmolupadhyay.github.io/Modern-day-website/
+The landing page exemplifies the contemporary look and feel of modern-day websites. Explore the visually captivating and engaging design by visiting this link: [Modern-day Website](https://au7anmolupadhyay.github.io/Modern-day-website/).
